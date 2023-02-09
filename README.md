@@ -1,1 +1,1 @@
-# hadoop hw from cuhk in the past.
+#group hadoop assignment from cuhk in the past.
