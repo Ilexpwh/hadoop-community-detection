@@ -1,1 +1,1 @@
-#group hadoop assignment in the past.
+# multi-node hadoop cluster maporeduce assignment in IERG4300.
